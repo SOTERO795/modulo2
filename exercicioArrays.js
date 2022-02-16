@@ -40,5 +40,5 @@ console.log(cadastroAlunos[0],cadastroAlunos[1],cadastroAlunos[2]);
 console.log(aluno.nome),
 console.log(aluno.curso)
 
-
+console
 
